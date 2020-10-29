@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="studentinfo.css" ?>
+
+<StudentInfo>
+ <Student>
+  <USN>USN   : 4VV17CS100</USN>
+  <NAME>NAME : Supraja C</NAME>
+  <COLLEGE>COLLEGE : VVCE</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2017</YEAR>
+  <EMAIL>E-MAIL : suprajashekar99@gmail.com</EMAIL>
+ </Student>
+ <Student>
+  <USN>USN : 4VV17CS104 </USN>
+  <NAME>NAME : Sushma U</NAME>
+  <COLLEGE>COLLEGE : VVCE</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2017</YEAR>
+  <EMAIL>E-MAIL : sushmau3071999@gmail.com</EMAIL>
+ </Student>
+ <Student>
+  <USN>USN   : 4VV17CS112</USN>
+  <NAME>NAME : Veena H</NAME>
+  <COLLEGE>COLLEGE : VVCE</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2017</YEAR>
+  <EMAIL>E-MAIL : veenah0599@gmail.com</EMAIL>
+ </Student>
+</StudentInfo>
